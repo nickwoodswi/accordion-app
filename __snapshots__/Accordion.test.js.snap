@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+Array [
+  <li>
+    <button
+      onClick={[Function]}
+    >
+      Section 1
+    </button>
+    <p
+      className="close"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </p>
+  </li>,
+  <li>
+    <button
+      onClick={[Function]}
+    >
+      Section 2
+    </button>
+    <p
+      className="close"
+    >
+      Cupiditate tenetur aliquam necessitatibus id distinctio quas nihil ipsam nisi modi!
+    </p>
+  </li>,
+  <li>
+    <button
+      onClick={[Function]}
+    >
+      Section 3
+    </button>
+    <p
+      className="close"
+    >
+      Animi amet cumque sint cupiditate officia ab voluptatibus libero optio et?
+    </p>
+  </li>,
+]
+`;
